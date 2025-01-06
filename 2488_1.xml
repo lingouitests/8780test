@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <string name="app_name">A Broken Family Tree</string>
+  <string name="full_app_name">Family Tree Viewer</string>
+  <string name="full_app_key">Family Tree Key added</string>
+</resources>
